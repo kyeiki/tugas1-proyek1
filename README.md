@@ -23,7 +23,7 @@ Selain mengerjakan Hands On Labs, Anda juga akan melakukan forking pada reposito
 
 1. Kunjungi link repositori di atas.
 2. Di pojok kanan atas halaman, klik tombol **Fork**.
-3. Ikuti instruksi untuk membuat fork repositori ke akun GitHub Anda sendiri.
+3. Ikuti instruksi untuk membuat fork repositori ke akun GitHub Anda sendiri,beri nama repository (contoh: `username.github.io`, ganti `username` dengan username GitHub Anda)..
 4. Setelah proses forking selesai, Anda akan memiliki salinan repositori di akun GitHub Anda yang dapat Anda modifikasi dan eksperimen sesuai keinginan.
 
 ## Penutup
