@@ -35,6 +35,9 @@ git config --global user.email "email@anda.com"
    ```bash
    touch README.md
    ```
+   ```bash
+   echo README.md
+   ```
 2. Buka file tersebut menggunakan editor teks pilihan Anda, lalu tambahkan teks berikut:
    ```markdown
    # Hello World Project
@@ -57,7 +60,7 @@ git config --global user.email "email@anda.com"
 
 1. Masuk ke [GitHub](https://github.com/) dan buat repository baru dengan nama `hello-world-3digitnim`.
 2. Masuk ke [Github Setting key](https://github.com/settings/keys), tambahkan ssh key / value id_rsa.pub ke Github setting Key, cara generate ssh-key [Tutorial SSH Key](https://www.cs.utexas.edu/facilities-documentation/ssh-keys-csres-windows-10)
-3. Ikuti instruksi GitHub untuk "…or push an existing repository from the command line" yang mencakup perintah `git remote add origin` dan `git push -u origin main`.
+3. Ikuti instruksi GitHub untuk "…or push an existing repository from the command line" yang mencakup perintah `git remote add origin` (sesuaikan di github) dan `git push -u origin main`.
 
 ## Push Ke GitHub
 

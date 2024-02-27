@@ -40,7 +40,7 @@ Branch di Git memungkinkan Anda untuk diverge dari development line utama dan te
    git add greetings.txt
    git commit -m "Add greetings from nama-branch"
    ```
-
+## Push Branching ke Github
 ## Kembali ke Main Branch dan Merging
 
 1. Ganti kembali ke main/master branch:
@@ -52,8 +52,9 @@ Branch di Git memungkinkan Anda untuk diverge dari development line utama dan te
    git merge nama-branch
    ```
    Pastikan tidak ada konflik merge. Jika ada, selesaikan terlebih dahulu.
+## Push Main
 
-## Membersihkan Branch
+## Membersihkan Branch (Opsional, Pastikan Sudah Melihat  main dan branch)
 
 Setelah berhasil menggabungkan branch dan semua perubahan sudah aman di main branch, Anda bisa menghapus branch yang tidak lagi dibutuhkan:
 ```bash
