@@ -36,7 +36,7 @@ git config --global user.email "email@anda.com"
    touch README.md
    ```
    ```bash
-   echo README.md
+   echo > README.md
    ```
 2. Buka file tersebut menggunakan editor teks pilihan Anda, lalu tambahkan teks berikut:
    ```markdown
